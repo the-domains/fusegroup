@@ -1,7 +1,7 @@
 name: Fusegroup
 favicon: null
-layout_spectrum: 0.5399347899947315
-typography_spectrum: 0.18435498792678118
+layout_spectrum: 0.09379
+typography_spectrum: 0.80792
 title: Portfolio
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#ffffff'
+    - '#7fa444'
+    - '#e08c18'
+    - '#1072af'
+    - '#a6cbdf'
   brandStrength: 0.6215154293458909
-  lightness: 0.8257352041546255
-  saturation: 0.7260599739383906
-  rhythmicContrast: 0.5056134131737053
+  lightness: 0.875
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
